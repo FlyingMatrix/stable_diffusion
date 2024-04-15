@@ -3,12 +3,9 @@ A pytorch implementation of Stable Diffusion for text-to-image and image-to-imag
 
 Important PATHs:
 
-./data: merges.txt
-
-        v1-5-pruned-emaonly.ckpt
-        
+./data: merges.txt\
+        v1-5-pruned-emaonly.ckpt\        
         vocab.json
 
-./images: dog.jpg
-
+./images: dog.jpg\
           room.jpg
